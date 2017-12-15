@@ -1,0 +1,18 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"All Autocomplete",
+		"Anaconda",
+		"BracketHighlighter",
+		"Colorsublime",
+		"ConvertToUTF8",
+		"CoolFormat",
+		"CTags",
+		"Package Control",
+		"Theme - Spacegray"
+	]
+}

@@ -1,0 +1,6 @@
+{
+	"python_interpreter":"C:/Users/Administrator/AppData/Local/Programs/Python/Python36/python.exe",
+	"suppress_word_completions": true,
+    "suppress_explicit_completions": true,
+    "complete_parameters": true,
+}
